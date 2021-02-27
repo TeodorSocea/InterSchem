@@ -3,9 +3,9 @@ A simple logic scheme visualizer, allowing the user to create, edit, load and sa
 Made in collaboration with Tudor Bălan.
 
 ## Table of Contents
-[Starting InterSchemp up](#starting-interschem-up)
-[Building from Source](#building-from-source)
-[Using InterSchem](#using-interschem)
+* [Starting InterSchemp up](#starting-interschem-up)
+* [Building from Source](#building-from-source)
+* [Using InterSchem](#using-interschem)
 
 ## Starting InterSchem up
 In order to start the program, run the `main.exe` file. This will open a console and another window. The operating the program won't require any console interraction, it is there simply for debbuging.
