@@ -16,3 +16,6 @@ All blocks may have multiple inputs but only one output per circle.
 ### Deleting a connection <br>
 To delete a connection, right click on the circle of the starting block. Holding down right click will highlight all the connections about to be removed in red.
 <br><br><img src="https://media.giphy.com/media/mdvV3L4cUZ3qxa96Ri/giphy.gif"></img>
+### Deleting a block <br>
+To delete a block, right click on the block. Holding down right click will highlight all of the connections about to be removed when the block will be removed in red.
+<br><br><img src="https://media.giphy.com/media/rDWvzHzvK8Zjm46Azk/giphy.gif"></img>
