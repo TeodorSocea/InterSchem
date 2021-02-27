@@ -19,3 +19,6 @@ To delete a connection, right click on the circle of the starting block. Holding
 ### Deleting a block <br>
 To delete a block, right click on the block. Holding down right click will highlight all of the connections about to be removed when the block will be removed in red.
 <br><br><img src="https://media.giphy.com/media/rDWvzHzvK8Zjm46Azk/giphy.gif"></img>
+### File and Load <br>
+Pressing the `File` button will prompt the user to enter the name of a file. This file will be read from when pressing the `Load` button in order to load a logic scheme (complete or incomplete). InterSchem uses its own file type in order to store information about a logic scheme. By default, 'Load' reads from `input.sch`.
+<br><br><img src="https://media.giphy.com/media/rP7ag7GzkKoM3JBF4Q/giphy.gif"></img>
