@@ -6,7 +6,7 @@ Made in collaboration with Tudor Bălan.
 * [Starting InterSchemp up](#starting-interschem-up)
 * [Building from Source](#building-from-source)
 * [Using InterSchem](#using-interschem)
-
+** [Inserting a block](#inserting-a-block)
 ## Starting InterSchem up
 In order to start the program, run the `main.exe` file. This will open a console and another window. The operating the program won't require any console interraction, it is there simply for debbuging.
 ## Building from source
