@@ -1,6 +1,10 @@
 # InterSchem
 A simple logic scheme visualizer, allowing the user to create, edit, load and save, export and run different logic schemes.
 Made in collaboration with Tudor Bălan.
+## Starting InterSchem up
+In order to start the program, run the `main.exe` file. This will open a console and another window. The operating the program won't require any console interraction, it is there simply for debbuging.
+## Building from source
+Currently unavailable, will follow up with a way to build the program from the source code soon. For now, it can only be ran by running the `main.exe` file.
 ## Using InterSchem
 We'll walk you through some of the things you can do in InterSchem.
 ### Inserting a block <br>
