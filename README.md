@@ -10,4 +10,9 @@ There are numerous blocks to choose from. A valid logic scheme must always have 
 <br><br><img src="https://media.giphy.com/media/M5UzxrVjOYOZWUaUfF/giphy.gif"></img>
 ### Connecting two blocks <br>
 In order to connect two blocks, simply click on the circle belonging to the starting block to commence pairing. After that, click on the block you wish to be connected to.
+<br>
+All blocks may have multiple inputs but only one output per circle.
 <br><br><img src="https://media.giphy.com/media/YHS9RdTl12pygJ66rV/giphy.gif"></img>
+### Deleting a connection <br>
+To delete a connection, right click on the circle of the starting block. Holding down right click will highlight all the connections about to be removed in red.
+<br><br><img src="https://media.giphy.com/media/mdvV3L4cUZ3qxa96Ri/giphy.gif"></img>
