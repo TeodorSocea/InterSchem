@@ -1,6 +1,8 @@
 # InterSchem
+## Description
 A simple logic scheme visualizer, allowing the user to create, edit, load and save, export and run different logic schemes.<br>
-Made in collaboration with [Tudor Bălan](https://github.com/BalanTudor-Cristian).
+Made in collaboration with [Tudor Bălan](https://github.com/BalanTudor-Cristian).<br>
+Built using C and C++, utilizing the `graphics.h` and `winbgim.h` libraries for the GUI.
 
 ## Table of Contents
 * [Starting InterSchemp up](#starting-interschem-up)
