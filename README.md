@@ -16,7 +16,7 @@ Built using C and C++, utilizing the `graphics.h` and `winbgim.h` libraries for 
   * [Save](#save)
   * [Run](#run)
 ## Starting InterSchem up
-In order to start the program, run the `main.exe` file. This will open a console and another window. Operating the program won't require any console interraction, it is there simply for debbuging.
+In order to start the program, run the `main.exe` file. This will open a console and another window. Operating the program won't require any console interraction, it is there simply for debugging.
 ## Building from source
 Currently unavailable, will follow up with a way to build the program from the source code soon. For now, it can only be ran by running the `main.exe` file.
 ## Using InterSchem
